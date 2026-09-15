@@ -1,0 +1,89 @@
+/* Element selector */
+p {
+    font-size: 16px; /*  CSS Sizing (px) */
+    line-height: 1.5;
+}
+
+
+img {
+    width: 200px; /* CSS Sizing (px) */
+    border-radius: 10px;
+}
+
+h4 {
+    font-size: 1.5em; /* CSS Sizing (em) */
+    color: #333;
+}
+
+/* Class selector */
+.highlight {
+    background-color: #e0f7fa;
+    padding: 20px; /* Box Model (Padding) */
+    border: 2px solid #00acc1; /* Step 17: Box Model (Border) */
+    margin-bottom: 20px; /* Box Model (Margin) */
+}
+
+/* ID selector */
+#main-heading {
+    color: #00838f;
+    font-size: 3rem; /* CSS Sizing (rem) */
+    margin-bottom: 5px;
+}
+
+/*  Div styling */
+.main-content {
+    background-color: #ffffff;
+    padding: 20px;
+    width: 80%; /* CSS Sizing (%) */
+    margin: 0 auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Step 18: CSS Positioning */
+.layout-container {
+    position: relative; /* Relative positioning */
+    width: 80%;
+    margin: 30px auto;
+}
+
+.absolute-box {
+    position: absolute; /* Absolute positioning */
+    top: 10px;
+    right: 20px;
+    background-color: #ffeb3b;
+    padding: 5px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.static-box {
+    position: static; 
+    background-color: #e3f2fd;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+/* Float and Clear */
+.float-box {
+    width: 45%;
+    padding: 10px;
+    background-color: #fff3e0;
+    border: 1px solid #ff9800;
+    box-sizing: border-box;
+}
+
+.left-box {
+    float: left;
+}
+
+.right-box {
+    float: right;
+}
+
+.clear-box {
+    clear: both;
+    background-color: #a5d6a7;
+    padding: 15px;
+    margin-top: 20px;
+    text-align: center;
+}
