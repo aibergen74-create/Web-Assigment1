@@ -40,9 +40,9 @@ In this assignment, I developed my first personal webpage to practice foundation
 
 ## Final Project Screenshots
 
-*(Below are the screenshots of the completed webpage demonstrating all the implemented features from Parts 1-4)*
+*(Below are the screenshots of the completed webpge demonstrating all the implemented features from Parts 1-4)*
 
-![Part 1](image.png)
-![Part 2](image-1.png)
-![Part 3](image-3.png)
-![Part 4](image-2.png)
+![Part 1](images/image.png)
+![Part 2](images/image-1.png)
+![Part 3](images/image-3.png)
+![Part 4](images/image-2.png)
